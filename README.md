@@ -1,6 +1,6 @@
-# Quartz Composer Workshops
+# Quartz Composer Learning
 
-Notes and compositions for Quartz Composer Workshops.
+Notes and compositions for Quartz Composer Learning.
 
 ## Useful Resources
 
